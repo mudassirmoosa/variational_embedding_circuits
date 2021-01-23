@@ -1,0 +1,10 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+#directories
+__pycache__/
+.ipynb_checkpoints/
+*.DS_Store
