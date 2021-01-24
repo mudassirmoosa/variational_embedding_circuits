@@ -5,7 +5,7 @@
 
 **Mentees:** Narges Alavi Samani, Mudassir Moosa, Syed Raza
 
-* Detailed project report in the folder **Report** *
+** Detailed project report in the folder 'Report' **
 
 ## **Project Description:**
 
