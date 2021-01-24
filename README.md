@@ -1,14 +1,15 @@
 # *Variational Embeddings in Quantum Machine Learning*
 ## **QOSF mentorship program**
 
-Mentor: Aroosa Ijaz
-Mentees: Narges Alavi Samani, Mudassir Moosa, Syed Raza
+**Mentor:** Aroosa Ijaz
 
-Detailed project report in the folder 'Report'.
+**Mentees:** Narges Alavi Samani, Mudassir Moosa, Syed Raza
+
+* Detailed project report in the folder **Report** *
 
 ## **Project Description:**
 
-Machine Learning is a potential application for near-term intermediate scale quantum computers with potential for speed-ups over their classical counterparts. Quantum classifiers are quantum circuits that can be trained to classify data in two stages; 1) Embedding: the input data is encoded in to quantum states, embedding it to a high-dimensional Hilbert space. 2) Measurement: A quantum measurement of the circuit which leads to the output of the model. Usually, the measurement part of the circuit is trained but in a recent paper [1] where an alternate approach has been adopted where the embedding part of the circuit is trained instead. In this work we benchmark various circuit embeddings and cost functions and propose improvements to the state-of-the-art techniques.
+Machine Learning is a potential application for near-term intermediate scale quantum computers with potential for speed-ups over their classical counterparts. Quantum classifiers are quantum circuits that can be trained to classify data in two stages; 1) *Embedding*: the input data is encoded in to quantum states, embedding it to a high-dimensional Hilbert space. 2) *Measurement*: A quantum measurement of the circuit which leads to the output of the model. Usually, the *measurement* part of the circuit is trained but in a recent paper [1] an alternate approach has been adopted where the *embedding* part of the circuit is trained instead. In this work we benchmark various circuit embeddings and cost functions and propose improvements to the state-of-the-art techniques.
 
 ## **Key Results:**
 1) We benchmark the performance of various variational embedding circuits for classification tasks.
