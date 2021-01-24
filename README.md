@@ -1,5 +1,5 @@
 # **Variational Embeddings in Quantum Machine Learning**
-## *[QOSF](https://qosf.org) mentorship program* 
+## *[QOSF mentorship program](https://qosf.org)* 
 ### *January 23rd, 2021*
 
 **Mentor:** [Aroosa Ijaz](https://aroosaijaz.github.io/)
