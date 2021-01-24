@@ -19,8 +19,11 @@ Machine Learning is a potential application for near-term intermediate scale qua
 4) We propose a framework on using Fourier series to quantify the expressivity of the various embedding circuits for classification problems. 
 
 ## **Code Repo Descriptions:**
-1) Folder X has code for this and this
-2) Folder Y has code for this and this 
+1) Folder overlap_vs_HS_cost has code for the comparision between the optimization of the Hilbert-Schmidt cost function and the optimization of the overlap. These codes are used in the analyses presented in Sec. (III) of the report.
+2) Folder random_embedding_circuits has code for the random variational embedding circuits that we have presented in Sec. (IV) of the report. These codes are used to generate the plots shown in Fig. (3) and Fig. (4) of the report.
+3) Folder risk_function/2d_data has code for the analysis of the risk function presented in Sec. (II) of the report. There is also a code for generating a data set shown in Fig. (1) of the report. 
+4) Folder Fourier_analysis/1d-QAOA-Fourier has code for performing a Pauli decomposition of the output of a single-wire embedded circuit. See, for e.g., Eqs. (2.3) and (2.4) of the report. 
+5) Folder Simulation_of_Variational_Circuits has code for this and this. 
 
 ## **References:**
 
