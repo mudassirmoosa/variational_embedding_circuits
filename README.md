@@ -1,5 +1,6 @@
 # **Variational Embeddings in Quantum Machine Learning**
-## *QOSF mentorship program January 23rd, 2021*
+## *QOSF mentorship program* 
+### *January 23rd, 2021*
 
 **Mentor:** Aroosa Ijaz
 
@@ -16,6 +17,10 @@ Machine Learning is a potential application for near-term intermediate scale qua
 2) We present an alternate to Hilbert-Schmidt cost function, an empirical risk function which can lead to better performance and is illustrated by some toy examples. 
 3) In single-wire circuits, the optimization of the Hilbert-Schmidt cost function is a computationally expensive task. We propose a more efficient overlap function that takes a third of the time. 
 4) We propose a framework on using Fourier series to quantify the expressivity of the various embedding circuits for classification problems. 
+
+## **Code Repo Descriptions:**
+1) Folder X has code for this and this
+2) Folder Y has code for this and this 
 
 ## **References:**
 
