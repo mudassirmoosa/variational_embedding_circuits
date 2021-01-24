@@ -1,10 +1,10 @@
 # **Variational Embeddings in Quantum Machine Learning**
-## *QOSF mentorship program* 
+## *[QOSF](https://qosf.org) mentorship program* 
 ### *January 23rd, 2021*
 
-**Mentor:** Aroosa Ijaz
+**Mentor:** [Aroosa Ijaz](https://aroosaijaz.github.io/)
 
-**Mentees:** Narges Alavi Samani, Mudassir Moosa, Syed Raza
+**Mentees:** [Narges Alavi Samani](https://www.linkedin.com/in/narges-alavi-samani/), [Mudassir Moosa](https://www.linkedin.com/in/mudassir-moosa/), [Syed Raza](https://www.linkedin.com/in/syedraza22/)
 
 Final project [report](https://github.com/mudassirmoosa/variational_embedding_circuits/blob/master/Report/Variational_Embedding_in_QML.pdf) in the folder Report.
 
