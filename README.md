@@ -23,7 +23,7 @@ Machine Learning is a potential application for near-term intermediate scale qua
 2) Folder random_embedding_circuits has code for the random variational embedding circuits that we have presented in Sec. (IV) of the report. These codes are used to generate the plots shown in Fig. (3) and Fig. (4) of the report.
 3) Folder risk_function/2d_data has code for the analysis of the risk function presented in Sec. (II) of the report. There is also a code for generating a data set shown in Fig. (1) of the report. 
 4) Folder Fourier_analysis/1d-QAOA-Fourier has code for performing a Pauli decomposition of the output of a single-wire embedded circuit. See, for e.g., Eqs. (2.3) and (2.4) of the report. 
-5) Folder Simulation_of_Variational_Circuits has code for this and this. 
+5) Folder Simulation_of_Variational_Circuits has code for implementing and comparing different variational circuit structures, varying in types of gates, circuit depth, number of qubits, as an embedding circuit for data classification problem.
 
 ## **References:**
 
