@@ -6,11 +6,11 @@
 
 **Mentees:** [Narges Alavi Samani](https://www.linkedin.com/in/narges-alavi-samani/), [Mudassir Moosa](https://www.linkedin.com/in/mudassir-moosa/), [Syed Raza](https://www.linkedin.com/in/syedraza22/)
 
-Final project [report](https://github.com/mudassirmoosa/variational_embedding_circuits/tree/master/Report) in the folder `Report'.
+The project [report](https://github.com/mudassirmoosa/variational_embedding_circuits/tree/master/Report) in the folder `Report'.
 
 ## **Project Description:**
 
-Machine Learning is a potential application for near-term intermediate scale quantum computers with potential for speed-ups over their classical counterparts. Quantum classifiers are quantum circuits that can be trained to classify data in two stages; 1) *Embedding*: the input data is encoded in to quantum states, embedding it to a high-dimensional Hilbert space. 2) *Measurement*: A quantum measurement of the circuit which leads to the output of the model. Usually, the *measurement* part of the circuit is trained but in a recent paper [1] an alternate approach has been adopted where the *embedding* part of the circuit is trained instead. In this work we benchmark various circuit embeddings and cost functions and propose improvements to the state-of-the-art techniques.
+Machine Learning is a potential application for near-term intermediate scale quantum computers with possible speed-ups over their classical counterparts. Quantum classifiers are quantum circuits that can be trained to classify data in two stages; 1) *Embedding*: the input data is encoded into quantum states, embedding it to a high-dimensional Hilbert space. 2) *Measurement*: A quantum measurement of the circuit to discriminate between classes. Usually, the *measurement* part of the circuit is trained but a recent work [1] adopts an alternate approach where the *embedding* part of the circuit is trained instead, freeing up more precious resources. In this work, we benchmark various embeddings and cost functions and propose improvements. Some key results: 1) We compare the performance of various variational embedding circuits for classification tasks. 2) We present an alternate to Hilbert-Schmidt cost function, an *empirical risk function* which can lead to better performance as illustrated by some toy examples. 3) In single-wire circuits, the optimization of the Hilbert-Schmidt cost function is a computationally expensive task. We propose a more efficient *overlap function* that takes a third of the time. 4) We conjecture a framework to quantify the expressivity of various embedding circuits for classification tasks. 
 
 ## **Key Results:**
 1) We benchmark the performance of various variational embedding circuits for classification tasks.
